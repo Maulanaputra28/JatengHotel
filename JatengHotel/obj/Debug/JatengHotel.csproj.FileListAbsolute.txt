@@ -1,0 +1,16 @@
+C:\Users\SMK TUNAS HARAPAN\Documents\latihan\JatengHotel\JatengHotel\bin\Debug\JatengHotel.exe.config
+C:\Users\SMK TUNAS HARAPAN\Documents\latihan\JatengHotel\JatengHotel\bin\Debug\JatengHotel.exe
+C:\Users\SMK TUNAS HARAPAN\Documents\latihan\JatengHotel\JatengHotel\bin\Debug\JatengHotel.pdb
+C:\Users\SMK TUNAS HARAPAN\Documents\latihan\JatengHotel\JatengHotel\obj\Debug\JatengHotel.csproj.AssemblyReference.cache
+C:\Users\SMK TUNAS HARAPAN\Documents\latihan\JatengHotel\JatengHotel\obj\Debug\JatengHotel.csproj.SuggestedBindingRedirects.cache
+C:\Users\SMK TUNAS HARAPAN\Documents\latihan\JatengHotel\JatengHotel\obj\Debug\JatengHotel.LoginForm.resources
+C:\Users\SMK TUNAS HARAPAN\Documents\latihan\JatengHotel\JatengHotel\obj\Debug\JatengHotel.Properties.Resources.resources
+C:\Users\SMK TUNAS HARAPAN\Documents\latihan\JatengHotel\JatengHotel\obj\Debug\JatengHotel.csproj.GenerateResource.cache
+C:\Users\SMK TUNAS HARAPAN\Documents\latihan\JatengHotel\JatengHotel\obj\Debug\JatengHotel.csproj.CoreCompileInputs.cache
+C:\Users\SMK TUNAS HARAPAN\Documents\latihan\JatengHotel\JatengHotel\obj\Debug\JatengHotel.exe
+C:\Users\SMK TUNAS HARAPAN\Documents\latihan\JatengHotel\JatengHotel\obj\Debug\JatengHotel.pdb
+C:\Users\SMK TUNAS HARAPAN\Documents\latihan\JatengHotel\JatengHotel\obj\Debug\JatengHotel.Helper.Main_Form.resources
+C:\Users\SMK TUNAS HARAPAN\Documents\latihan\JatengHotel\JatengHotel\obj\Debug\JatengHotel.UserControl2.resources
+C:\Users\SMK TUNAS HARAPAN\Documents\latihan\JatengHotel\JatengHotel\obj\Debug\JatengHotel.Main_Form_Admin.resources
+C:\Users\SMK TUNAS HARAPAN\Documents\latihan\JatengHotel\JatengHotel\obj\Debug\JatengHotel.Helper.MasterRoomType.resources
+C:\Users\SMK TUNAS HARAPAN\Documents\latihan\JatengHotel\JatengHotel\obj\Debug\JatengHotel.Master_Roomcs.resources
